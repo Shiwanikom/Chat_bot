@@ -1,0 +1,5 @@
+Rails.configuration.stripe = {
+  publishable_key: "pk_test_51PCF6BSIIcj1NMXODUupmWg6dgeJhcjXOnnCXA4irtoGr5LcwfGMdhqDHrB58o3EBbOjuFkj4r5G5VPD7VsF8QzU00DYxBCNmr",
+  secret_key: "sk_test_51IyDtFEno4yEOv6vVTvO9xtGMBR0njzcmTiNjL4vICL5P15G8jUmFJa9qUvsaZfJbbtzKOQF1LyLhAlASajpPhFt00RQSgd4Mx"
+}
+Stripe.api_key = "sk_test_51IyDtFEno4yEOv6vVTvO9xtGMBR0njzcmTiNjL4vICL5P15G8jUmFJa9qUvsaZfJbbtzKOQF1LyLhAlASajpPhFt00RQSgd4Mx"

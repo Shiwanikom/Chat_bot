@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  stripe_id: MyString
+  payment_transaction_id: MyString
+  payment_type: MyString
+  amount: 1
+  status: false
+
+two:
+  user: two
+  stripe_id: MyString
+  payment_transaction_id: MyString
+  payment_type: MyString
+  amount: 1
+  status: false
